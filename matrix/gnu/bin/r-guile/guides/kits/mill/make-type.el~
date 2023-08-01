@@ -1,0 +1,28 @@
+;; make-type.el
+
+;; extension name: make-type
+;; obvjective ext: polony
+;; form ext: guile
+;; gnu hack: GNU Guile make-type Manual
+;; url: http://gnu.org
+
+;; Terminal console modules
+(point-marker)
+;; Input Terminal
+:R1
+;; select type style REPL message
+(selected-window)
+;; Input terminal
+:R3
+;; values frames selected
+(selected-frames)
+;; Input Terminal
+:R1
+;; Terminal new
+(get-device-terminal nil)
+;; Input Terminal
+:R3
+;; process of list in arguments
+(process-list)
+:R1
+
