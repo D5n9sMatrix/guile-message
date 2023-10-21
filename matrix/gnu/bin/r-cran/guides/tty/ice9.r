@@ -1,6 +1,6 @@
 #!/usr/bin/r
 
-# celsious Cº refresh climatic ice9 -27 -0 degreen
+# celsious Cº Continue climatic ice9 -27 -0 degreen
 ice9 <- function(x, y) {
     x < -x
     y <- -y

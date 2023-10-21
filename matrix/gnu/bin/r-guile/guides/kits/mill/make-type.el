@@ -53,8 +53,8 @@
 (type-of (record 'foo))
 ;; if your is one word what me say ?
 (eq 'foo 'foo)
-;; what good ice9 refresh climatic -27 -0 degreen
+;; what good ice9 Continue climatic -27 -0 degreen
 (eq ?A ?A)
-;; what good is this cold ice9 climatic refresh -27 -0 degreen
+;; what good is this cold ice9 climatic Continue -27 -0 degreen
 ;; pass to celsious level Cº template ambient
 (eq 3.0 3.0)
